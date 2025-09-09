@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Md Farhan</h1>
-<h3 align="center">A passionate Frontend Developer from India | Aspiring MERN Stack Developer</h3>
+>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="coding animation"/>
-</p>
+<h1 align="center">Hi 👋, I'm Md Farhan</h1>
+
+  <div>
+    <h3>A passionate Frontend Developer from India | Aspiring MERN Stack Developer</h3>
+  </div>
+
+  <div align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGUyOTJ4bDFubnRlMzY4c2lpbXdlaGttdmJ0aWpkZWR0d3d2cjQ5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" alt="working on laptop animation"/>
+  </div>
+
 
 ---
 
@@ -72,5 +78,5 @@
 ### 💡 Fun Animated Section
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="learning animation"/>
-  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="200" alt="code animation"/>
+  
 </p>
